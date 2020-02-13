@@ -8,3 +8,5 @@
 - 4. Assignment4 : 극값 구하기
 - 5. Assignment5 : 사진확대
 - 6. Assignment6 : 이미지 잘라내기
+
+![lena](https://github.com/KimSeongHeon/2018_NumericalMethod/blob/master/Resource/lena.jpeg)
